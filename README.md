@@ -6,6 +6,7 @@ This project is aimed to create a yearly sales report for a hypothetical e-comme
 # Title :- 📈Vrinda Store Annual Report 📊
 
 dashboard in Microsoft Excel using the dataset provided by Rishab Mishra.
+
 -->Data Cleaning: Ensured the accuracy and consistency of data.
 
 -->Data Processing: Structured the data to be analysis-ready.
